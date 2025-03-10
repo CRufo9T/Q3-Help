@@ -3,8 +3,7 @@
 }
 body{
 width: 100% !important;
-background-image: url(peach.jpg);
-background-size: cover;
+background-color: rgb(230, 178, 186);
 }
 }.container{
 	padding: 15px;
